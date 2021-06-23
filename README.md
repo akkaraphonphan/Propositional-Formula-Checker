@@ -1,4 +1,4 @@
-# Propositional-Formula-Checker
+# Propositional-Formula-Parser
 
 Part of COMP0009 coursework. This program checks whether a formula is a proposition, a negation, or a binary. If it's a binary, it will also check whether the formula is satisfiable or not.
 
