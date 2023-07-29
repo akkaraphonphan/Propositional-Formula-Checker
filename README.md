@@ -1,6 +1,6 @@
 # Propositional-Formula-Parser
 
-Part of COMP0009 coursework. This program checks whether a formula is a proposition, a negation, or a binary. If it's a binary, it will also check whether the formula is satisfiable or not.
+This program checks whether a formula is a proposition, a negation, or a binary. If it's a binary, it will also check the satisfyability of the formula.
 
 The program checks up to **10 formulas**, each formula has a max length of **50 characters**. This can be adjusted in lines **5** and **6** in ``skeleton_tab.c``.
 
